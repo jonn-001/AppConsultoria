@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.navigationdrawer"
-        minSdkVersion 15
+        minSdkVersion 14
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
@@ -38,5 +38,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //Biblioteca about page
-    implementation 'com.github.medyo:android-about-page:1.2.5'
+    //implementation 'com.github.medyo:android-about-page:1.2.5'
 }
